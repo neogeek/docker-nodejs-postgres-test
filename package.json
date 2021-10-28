@@ -1,0 +1,11 @@
+{
+  "name": "docker-nodejs-postgres-test",
+  "dependencies": {
+    "pg": "8.7.1",
+    "restify": "8.6.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "private": true
+}
